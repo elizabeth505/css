@@ -1,0 +1,16 @@
+/* base style */
+
+body {
+    background-color: rgba(200, 0, 50, 0.5);
+}
+/* setting purple background colour for everything visible on page */
+
+h1, h3 {
+    color: rgba(255, 255, 255, 0.5);
+}
+/* setting headings to white */
+
+p {
+    font-style: oblique;
+}
+/* setting font style of paragraphs to oblique, which looks the same as italics for some reason */
