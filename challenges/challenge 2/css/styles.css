@@ -59,8 +59,11 @@ header {
   text-align: center;
 }
 
+/* !!!!!!!!!!!!!!! */
 p.sec {
   text-indent: 20px;
 }
+/* !!!!!!!!!!!!!! */
+
 
 /* ???Give your headings and other element types appropriate font-sizes defined using a suitable relative unit.??? */
